@@ -6,7 +6,6 @@
 	"displaycode": true	
 	},
 "lists": {
-	"parent": "extensions",
 	"displayName": "Galleries and Lists",
 	"aliases": "Galleries and Lists",
 	"class": "list",
