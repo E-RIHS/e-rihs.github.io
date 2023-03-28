@@ -1,0 +1,15 @@
+{
+  "defaultcard": "full",
+  "displaychecked": true,
+  "tableofcontents": true,
+  "groups": {
+    "Acknowledgements" : {
+      "comment": "This project has been assisted or directly supported by the following projects:",
+      "card": "project"},
+    "Related Projects" : {
+      "comment": "This project has made use of the work of the following project:",
+      "card": "project"}
+    	},
+  "list": "support-list"
+	
+}
